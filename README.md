@@ -1,2 +1,2 @@
 # jquery-stepped-form
-Quick example of a simple stepped form in jquery
+This is a very simple example of how to do a stepped form using jQuery and some CSS
