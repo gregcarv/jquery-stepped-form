@@ -1,0 +1,16 @@
+.form{
+  max-width: 600px;
+  background-color: #cccccc;
+  padding:20px;
+}
+.section{
+  margin:20px;
+  background-color: #f1f1f1;
+  padding:20px;
+}
+
+.back{
+  text-decoration: underline;
+  font-weight: normal;
+  font-size: 1rem;
+}
